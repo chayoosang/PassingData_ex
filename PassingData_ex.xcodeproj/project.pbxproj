@@ -16,6 +16,7 @@
 		73E1B6C7296FE3E90083B6EE /* PassingData_exTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E1B6C6296FE3E90083B6EE /* PassingData_exTests.swift */; };
 		73E1B6D1296FE3E90083B6EE /* PassingData_exUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E1B6D0296FE3E90083B6EE /* PassingData_exUITests.swift */; };
 		73E1B6D3296FE3E90083B6EE /* PassingData_exUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E1B6D2296FE3E90083B6EE /* PassingData_exUITestsLaunchTests.swift */; };
+		73E1B6E0296FF3950083B6EE /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E1B6DF296FF3950083B6EE /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		73E1B6CC296FE3E90083B6EE /* PassingData_exUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PassingData_exUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		73E1B6D0296FE3E90083B6EE /* PassingData_exUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingData_exUITests.swift; sourceTree = "<group>"; };
 		73E1B6D2296FE3E90083B6EE /* PassingData_exUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassingData_exUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		73E1B6DF296FF3950083B6EE /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				73E1B6B1296FE3E70083B6EE /* SceneDelegate.swift */,
 				73E1B6B3296FE3E70083B6EE /* ViewController.swift */,
 				73E1B6B5296FE3E70083B6EE /* Main.storyboard */,
+				73E1B6DF296FF3950083B6EE /* DetailViewController.swift */,
 				73E1B6B8296FE3E90083B6EE /* Assets.xcassets */,
 				73E1B6BA296FE3E90083B6EE /* LaunchScreen.storyboard */,
 				73E1B6BD296FE3E90083B6EE /* Info.plist */,
@@ -261,6 +264,7 @@
 				73E1B6B4296FE3E70083B6EE /* ViewController.swift in Sources */,
 				73E1B6B0296FE3E70083B6EE /* AppDelegate.swift in Sources */,
 				73E1B6B2296FE3E70083B6EE /* SceneDelegate.swift in Sources */,
+				73E1B6E0296FF3950083B6EE /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
